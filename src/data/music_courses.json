@@ -1,0 +1,105 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "description": "Learn the basics of guitar, including chords, strumming, and simple songs.",
+      "price": 1999,
+      "instructor": "Rahul Sharma",
+      "isFeatured": true,
+      "image": "/images/guitar-beginner.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "description": "Master advanced piano skills such as arpeggios, improvisation, and performance techniques.",
+      "price": 2999,
+      "instructor": "Anjali Verma",
+      "isFeatured": false,
+      "image": "/images/piano-advanced.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Music Production with FL Studio",
+      "slug": "music-production-fl-studio",
+      "description": "A complete guide to producing, mixing, and mastering music using FL Studio.",
+      "price": 2499,
+      "instructor": "Amit Kumar",
+      "isFeatured": true,
+      "image": "/images/flstudio-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-beginners",
+      "description": "Enhance your singing skills with voice control, pitch, and breathing techniques.",
+      "price": 1499,
+      "instructor": "Priya Singh",
+      "isFeatured": false,
+      "image": "/images/vocal-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "DJ Mixing Essentials",
+      "slug": "dj-mixing-essentials",
+      "description": "Learn the art of DJing with beat matching, transitions, and live performance tips.",
+      "price": 1799,
+      "instructor": "Karan Mehta",
+      "isFeatured": true,
+      "image": "/images/dj-course.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "Electronic Music Fundamentals",
+      "slug": "electronic-music-fundamentals",
+      "description": "Understand the basics of electronic music, synthesizers, and sound design.",
+      "price": 2599,
+      "instructor": "Neha Kapoor",
+      "isFeatured": false,
+      "image": "/images/electronic-music.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tabla for Beginners",
+      "slug": "tabla-for-beginners",
+      "description": "Learn traditional Indian rhythms and tabla playing techniques.",
+      "price": 1399,
+      "instructor": "Ravi Shankar",
+      "isFeatured": true,
+      "image": "/images/tabla-course.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Gain a strong foundation in scales, chords, harmony, and rhythm.",
+      "price": 1699,
+      "instructor": "Ankita Joshi",
+      "isFeatured": false,
+      "image": "/images/music-theory.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Violin Masterclass",
+      "slug": "violin-masterclass",
+      "description": "Take your violin skills to the next level with advanced bowing and fingering techniques.",
+      "price": 2899,
+      "instructor": "Suresh Iyer",
+      "isFeatured": true,
+      "image": "/images/violin-course.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Sound Engineering Basics",
+      "slug": "sound-engineering-basics",
+      "description": "Learn recording, mixing, and audio editing for professional sound production.",
+      "price": 3199,
+      "instructor": "Meera Nandan",
+      "isFeatured": false,
+      "image": "/images/sound-engineering.jpg"
+    }
+  ]
+}
