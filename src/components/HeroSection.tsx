@@ -28,7 +28,7 @@ function HeroSection() {
     <div className='mt-4'>
     <Link href={"/courses"}>
     <Button>
-      Explore courses
+      <h1 className="font-bold">Explore courses</h1>
     </Button>
     </Link>
     </div>
