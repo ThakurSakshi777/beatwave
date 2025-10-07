@@ -31,7 +31,7 @@ export const MenuItem = ({
     <div onMouseEnter={() => setActive(item)} className="relative">
       <motion.p
         transition={{ duration: 0.3 }}
-        className="cursor-pointer text-black hover:opacity-90 dark:text-white"
+        className="text-black cursor-pointer hover:opacity-90 dark:text-white"
       >
         {item}
       </motion.p>
@@ -46,9 +46,9 @@ export const MenuItem = ({
           <motion.div
             transition={transition}
             layoutId="active"
-            className="bg-white dark:bg-black backdrop-blur-sm rounded-2xl overflow-hidden border border-black/20 dark:border-white/20 shadow-xl"
+            className="overflow-hidden bg-white border shadow-xl dark:bg-black backdrop-blur-sm rounded-2xl border-black/20 dark:border-white/20"
           >
-            <motion.div layout className="w-max h-full p-4">
+            <motion.div layout className="h-full p-4 w-max">
               {children}
             </motion.div>
           </motion.div>
@@ -69,7 +69,7 @@ export const Menu = ({
   return (
     <nav
       onMouseLeave={() => setActive(null)}
-      className="relative rounded-full border border-transparent dark:bg-black dark:border-white/20 bg-white shadow-input flex justify-center space-x-4 px-8 py-6"
+      className="relative flex justify-center px-8 py-6 space-x-4 bg-white border border-transparent rounded-full dark:bg-black dark:border-white/20 shadow-input"
     >
       {children}
     </nav>
@@ -95,10 +95,10 @@ export const ProductItem = ({
         width={140}
         height={70}
         alt={title}
-        className="shrink-0 rounded-md shadow-2xl"
+        className="rounded-md shadow-2xl shrink-0"
       />
       <div>
-        <h4 className="text-xl font-bold mb-1 text-black dark:text-white">
+        <h4 className="mb-1 text-xl font-bold text-black dark:text-white">
           {title}
         </h4>
         <p className="text-neutral-700 text-sm max-w-[10rem] dark:text-neutral-300">
@@ -120,7 +120,7 @@ export const HoveredLink = ({
   return (
     <a
       href={href}
-      className="text-neutral-700 dark:text-neutral-200 hover:text-black"
+      className="text-neutral-700 dark:text-neutral-200 hover:text-white hover:opacity-20"
     >
       {children}
     </a>

@@ -8,7 +8,7 @@
       "price": 1999,
       "instructor": "Rahul Sharma",
       "isFeatured": true,
-      "image": "/images/guitar-beginner.jpg"
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 2999,
       "instructor": "Anjali Verma",
       "isFeatured": false,
-      "image": "/images/piano-advanced.jpg"
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 2499,
       "instructor": "Amit Kumar",
       "isFeatured": true,
-      "image": "/images/flstudio-course.jpg"
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 1499,
       "instructor": "Priya Singh",
       "isFeatured": false,
-      "image": "/images/vocal-course.jpg"
+      "image": "https://images.unsplash.com/photo-1507878866276-a947ef722fee?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 1799,
       "instructor": "Karan Mehta",
       "isFeatured": true,
-      "image": "/images/dj-course.jpg"
+      "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?auto=format&fit=crop&w=800&q=80"
     },
 
     {
@@ -59,7 +59,7 @@
       "price": 2599,
       "instructor": "Neha Kapoor",
       "isFeatured": false,
-      "image": "/images/electronic-music.jpg"
+      "image": "https://images.unsplash.com/photo-1485579149621-3123dd979885?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 7,
@@ -69,7 +69,7 @@
       "price": 1399,
       "instructor": "Ravi Shankar",
       "isFeatured": true,
-      "image": "/images/tabla-course.jpg"
+      "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 8,
@@ -79,7 +79,7 @@
       "price": 1699,
       "instructor": "Ankita Joshi",
       "isFeatured": false,
-      "image": "/images/music-theory.jpg"
+      "image": "https://images.unsplash.com/photo-1507878866276-a947ef722fee?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 9,
@@ -89,7 +89,7 @@
       "price": 2899,
       "instructor": "Suresh Iyer",
       "isFeatured": true,
-      "image": "/images/violin-course.jpg"
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=800&q=80"
     },
     {
       "id": 10,
@@ -99,7 +99,7 @@
       "price": 3199,
       "instructor": "Meera Nandan",
       "isFeatured": false,
-      "image": "/images/sound-engineering.jpg"
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=800&q=80"
     }
   ] 
 
